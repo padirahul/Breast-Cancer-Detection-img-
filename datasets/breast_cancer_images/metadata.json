@@ -1,0 +1,9 @@
+{
+    "dataset_name": "Breast Cancer Image Dataset",
+    "total_images": 200,
+    "malignant": 80,
+    "benign": 120,
+    "image_size": "256x256",
+    "source": "Simulated for demonstration",
+    "date_created": "2025-04-03"
+}
